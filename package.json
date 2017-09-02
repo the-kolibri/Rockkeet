@@ -1,0 +1,17 @@
+{
+	"name": "resume-bootstrap",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.html",
+	"scripts": {
+		"test": "echo Hola Kolibri",
+		"start": "chmod 755 ./k-scripts/start.sh && ./k-scripts/start.sh"
+	},
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"gulp": "^3.9.1",
+		"gulp-sass": "^3.1.0",
+		"html5-boilerplate": "^6.0.0"
+	}
+}
