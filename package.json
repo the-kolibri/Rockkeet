@@ -1,7 +1,7 @@
 {
-	"name": "resume-bootstrap",
-	"version": "1.0.0",
-	"description": "",
+	"name": "rockket",
+	"version": "0.0.1",
+	"description": "Mini-frontend development environment for Designers",
 	"main": "index.html",
 	"scripts": {
 		"test": "echo Hola Kolibri",
