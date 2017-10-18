@@ -1,17 +1,19 @@
 # Rockkeet v0.0.1
+
+<img src="https://img.shields.io/badge/Kolibri%20Network-Development-Red.svg">
+
 **Last Update: 18 Oct 2017**
 
 Mini-frontend development environment for **Designers**. A Kolibri's Package.json and scripts files ready to develop.
 
-#### NPM Scripts:
+#### Scripts:
 
 **Start:** Start a new basic folder structure.
 
 #### Technology Stack:
 
 * Node v6.11.4
-* yarn v1.2.1
-* npm v5.5.1
+* yarn v1.2.1 or npm v5.5.1
 
 #### Dev Dependencies:
 
